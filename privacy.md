@@ -39,7 +39,7 @@ title: Политика конфиденциальности — Библия: �
 
 ## Контакты
 
-По вопросам конфиденциальности: SUPPORT_EMAIL
+По вопросам конфиденциальности: buyback.overlap_5b@icloud.com
 
 ---
 
@@ -54,4 +54,4 @@ Everything you create (notes, word highlights, bookmarks, reading settings, tran
 
 The app collects no data from anyone, including children under 13.
 
-Contact: SUPPORT_EMAIL
+Contact: buyback.overlap_5b@icloud.com
